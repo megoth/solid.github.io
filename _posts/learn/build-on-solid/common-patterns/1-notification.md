@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notification in Solid
+title: "1- Notification in Solid"
 tags: [build], [pattern]
 categories: [Build on Solid], [Common patterns]
 permalink: Build-on-Solid/common-patterns/1-notification
